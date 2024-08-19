@@ -1,0 +1,9 @@
+In this project we have data related to the appearance and technical characteristics of the car, based on which we
+
+ want  to see if  there is a binomial relationship between  the change in car width and its weight  variable. The
+
+name of our data is " automobile.csv ". This analysis is based on linear regression.
+
+The program code is implemented in Python and its name is 
+
+##"PolyNomial Regression.py".
